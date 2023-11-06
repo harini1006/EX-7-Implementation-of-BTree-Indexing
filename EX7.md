@@ -15,8 +15,6 @@ Else, search the right child of the key.<br>
 </div>
   
 ## PROGRAM:
-  
-  ```python
 # Searching a key on a B-tree in Python
 # Create a node
 class BTreeNode:
@@ -120,7 +118,7 @@ def main():
 
 if __name__ == '__main__':
   main()
-```
+
 ## OUTPUT:
 ![image](https://github.com/dineshgl/EX-7-Implementation-of-BTree-Indexing/assets/143793356/a0988958-d08d-4bf3-a518-f46af62ca388)
 
